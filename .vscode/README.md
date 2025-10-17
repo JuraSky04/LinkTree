@@ -12,6 +12,6 @@ Construído como exercício do curso Discovery da RocketSeat.
 - CSS
 - Git e Github
 
-## 💛 Contato
+## 💛 Contato:
 
 jurandirtete@gmail.com
