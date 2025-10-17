@@ -1,8 +1,6 @@
 # LinkTree SkyBig TV
 
-<p>
-<img alt="previewss" src=".github/preview.jpg">
-</p>
+![preview](./.github/preview.jpg)
 
 > Projeto
 
