@@ -4,10 +4,11 @@
 }
 
 body {
-  background-image: url(./assets/assets/bg-mobile.jpg);
+  background-image: url(./assets/pngtree-elegant-light-blue-line-background-image_272095.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  height: 100vh;
 }
 
 body * {
@@ -20,7 +21,6 @@ body * {
 }
 
 #container {
-  width: 100%;
   max-width: 588px;
   border: 1px solid red;
   margin: auto;
