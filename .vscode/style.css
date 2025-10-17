@@ -91,6 +91,7 @@ ul li a:hover {
   transition: 0.2s;
   size: 200%;
 }
+
 #social-links #whatsapp :hover {
   background: rgba(0, 12, 116, 0.951);
   border-radius: 50%;
