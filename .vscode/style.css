@@ -89,11 +89,11 @@ ul li a:hover {
   padding: 16px;
   border-radius: 100%;
   transition: 0.2s;
+  size: 200%;
 }
-
-#social-links a :hover {
+#social-links #whatsapp :hover {
   background: rgba(0, 12, 116, 0.951);
-  border-radius: 100%;
+  border-radius: 50%;
 }
 
 footer {
