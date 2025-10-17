@@ -1,6 +1,6 @@
 # LinkTree SkyBig TV
 
-![preview](./preview.jpg)
+![preview](./assets/preview.jpg)
 
 > Projeto
 
