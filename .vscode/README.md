@@ -1,6 +1,6 @@
 # LinkTree SkyBig TV
 
-![preview](./assets/assets/Captura%20de%20tela%202025-10-17%20135252.png)
+![preview](./assets/assets/preview.jpg)
 
 > Projeto
 
