@@ -20,7 +20,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   border: 1px solid red;
   margin: auto;
   padding: 24px;
@@ -93,7 +94,6 @@ ul li a:hover {
 #social-links a :hover {
   background: rgba(255, 255, 255, 0.2);
   border-radius: 100%;
-  text-decoration: none;
 }
 
 footer {
