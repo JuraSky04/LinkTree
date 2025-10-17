@@ -22,7 +22,6 @@ body * {
 
 #container {
   max-width: 588px;
-  border: 1px solid red;
   margin: auto;
   padding: 24px;
   padding-top: 56px;
